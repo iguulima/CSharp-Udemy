@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TiposDados",
-    "\\TiposDados\\bin\\Debug",
-    "\\TiposDados\\bin\\Debug\\net8.0"
+    "\\TiposDados"
   ],
+  "SelectedNode": "\\TiposDados\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

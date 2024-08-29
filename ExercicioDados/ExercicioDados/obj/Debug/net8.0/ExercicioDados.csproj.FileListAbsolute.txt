@@ -1,0 +1,15 @@
+D:\Programação\Cursos\CSharp-Udemy\ExercicioDados\ExercicioDados\bin\Debug\net8.0\ExercicioDados.exe
+D:\Programação\Cursos\CSharp-Udemy\ExercicioDados\ExercicioDados\bin\Debug\net8.0\ExercicioDados.deps.json
+D:\Programação\Cursos\CSharp-Udemy\ExercicioDados\ExercicioDados\bin\Debug\net8.0\ExercicioDados.runtimeconfig.json
+D:\Programação\Cursos\CSharp-Udemy\ExercicioDados\ExercicioDados\bin\Debug\net8.0\ExercicioDados.dll
+D:\Programação\Cursos\CSharp-Udemy\ExercicioDados\ExercicioDados\bin\Debug\net8.0\ExercicioDados.pdb
+D:\Programação\Cursos\CSharp-Udemy\ExercicioDados\ExercicioDados\obj\Debug\net8.0\ExercicioDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Cursos\CSharp-Udemy\ExercicioDados\ExercicioDados\obj\Debug\net8.0\ExercicioDados.AssemblyInfoInputs.cache
+D:\Programação\Cursos\CSharp-Udemy\ExercicioDados\ExercicioDados\obj\Debug\net8.0\ExercicioDados.AssemblyInfo.cs
+D:\Programação\Cursos\CSharp-Udemy\ExercicioDados\ExercicioDados\obj\Debug\net8.0\ExercicioDados.csproj.CoreCompileInputs.cache
+D:\Programação\Cursos\CSharp-Udemy\ExercicioDados\ExercicioDados\obj\Debug\net8.0\ExercicioDados.sourcelink.json
+D:\Programação\Cursos\CSharp-Udemy\ExercicioDados\ExercicioDados\obj\Debug\net8.0\ExercicioDados.dll
+D:\Programação\Cursos\CSharp-Udemy\ExercicioDados\ExercicioDados\obj\Debug\net8.0\refint\ExercicioDados.dll
+D:\Programação\Cursos\CSharp-Udemy\ExercicioDados\ExercicioDados\obj\Debug\net8.0\ExercicioDados.pdb
+D:\Programação\Cursos\CSharp-Udemy\ExercicioDados\ExercicioDados\obj\Debug\net8.0\ExercicioDados.genruntimeconfig.cache
+D:\Programação\Cursos\CSharp-Udemy\ExercicioDados\ExercicioDados\obj\Debug\net8.0\ref\ExercicioDados.dll
