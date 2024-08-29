@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Programa\u00E7\u00E3o\\Estudo\\Cursos\\C#\\PrimeiroProjeto\\",
+  "WorkspaceRootPath": "D:\\Programa\u00E7\u00E3o\\Cursos\\CSharp-Udemy\\PrimeiroProjeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96B0D38D-26B0-4098-9666-F81F41108A32}|PrimeiroProjeto\\PrimeiroProjeto.csproj|d:\\programa\u00E7\u00E3o\\estudo\\cursos\\c#\\primeiroprojeto\\primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96B0D38D-26B0-4098-9666-F81F41108A32}|PrimeiroProjeto\\PrimeiroProjeto.csproj|solutionrelative:primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Programa\u00E7\u00E3o\\Cursos\\CSharp-Udemy\\PrimeiroProjeto\\PrimeiroProjeto\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PrimeiroProjeto\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Estudo\\Cursos\\C#\\PrimeiroProjeto\\PrimeiroProjeto\\Program.cs",
+              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Cursos\\CSharp-Udemy\\PrimeiroProjeto\\PrimeiroProjeto\\Program.cs",
               "RelativeDocumentMoniker": "PrimeiroProjeto\\Program.cs",
-              "ToolTip": "D:\\Programa\u00E7\u00E3o\\Estudo\\Cursos\\C#\\PrimeiroProjeto\\PrimeiroProjeto\\Program.cs",
+              "ToolTip": "D:\\Programa\u00E7\u00E3o\\Cursos\\CSharp-Udemy\\PrimeiroProjeto\\PrimeiroProjeto\\Program.cs",
               "RelativeToolTip": "PrimeiroProjeto\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

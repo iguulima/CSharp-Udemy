@@ -1,0 +1,15 @@
+D:\Programação\Cursos\CSharp-Udemy\TiposDados\TiposDados\obj\Debug\net8.0\TiposDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Cursos\CSharp-Udemy\TiposDados\TiposDados\obj\Debug\net8.0\TiposDados.AssemblyInfoInputs.cache
+D:\Programação\Cursos\CSharp-Udemy\TiposDados\TiposDados\obj\Debug\net8.0\TiposDados.AssemblyInfo.cs
+D:\Programação\Cursos\CSharp-Udemy\TiposDados\TiposDados\obj\Debug\net8.0\TiposDados.csproj.CoreCompileInputs.cache
+D:\Programação\Cursos\CSharp-Udemy\TiposDados\TiposDados\obj\Debug\net8.0\TiposDados.sourcelink.json
+D:\Programação\Cursos\CSharp-Udemy\TiposDados\TiposDados\bin\Debug\net8.0\TiposDados.exe
+D:\Programação\Cursos\CSharp-Udemy\TiposDados\TiposDados\bin\Debug\net8.0\TiposDados.deps.json
+D:\Programação\Cursos\CSharp-Udemy\TiposDados\TiposDados\bin\Debug\net8.0\TiposDados.runtimeconfig.json
+D:\Programação\Cursos\CSharp-Udemy\TiposDados\TiposDados\bin\Debug\net8.0\TiposDados.dll
+D:\Programação\Cursos\CSharp-Udemy\TiposDados\TiposDados\bin\Debug\net8.0\TiposDados.pdb
+D:\Programação\Cursos\CSharp-Udemy\TiposDados\TiposDados\obj\Debug\net8.0\TiposDados.dll
+D:\Programação\Cursos\CSharp-Udemy\TiposDados\TiposDados\obj\Debug\net8.0\refint\TiposDados.dll
+D:\Programação\Cursos\CSharp-Udemy\TiposDados\TiposDados\obj\Debug\net8.0\TiposDados.pdb
+D:\Programação\Cursos\CSharp-Udemy\TiposDados\TiposDados\obj\Debug\net8.0\TiposDados.genruntimeconfig.cache
+D:\Programação\Cursos\CSharp-Udemy\TiposDados\TiposDados\obj\Debug\net8.0\ref\TiposDados.dll
